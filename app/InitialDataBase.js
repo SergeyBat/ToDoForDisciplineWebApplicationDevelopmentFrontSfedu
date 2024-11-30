@@ -1,0 +1,6 @@
+export const tasksForLocalStorage = [
+  {"id":"82bceb19-7b3d-45d6-813e-48f77c12ba0b","title":"Сделать лр 1 по дисциплине \"Разработка Web-приложений\"","description":"Первое веб приложение; Верстка с использованием HTML, CSS, JS","date":"2024-09-30","status":"completed"},{"id":"e29284d2-1638-4b22-8c2f-5c3aaede0070","title":"Сделать лр 2 по дисциплине \"Разработка Web-приложений\"","description":"Развернуть WordPress","date":"2024-10-31","status":"ongoing"},
+  {"id":"fcd91ff4-fe47-4b90-9975-3d1a3fe412c9","title":"Сделать лр 3 по дисциплине \"Разработка Web-приложений\"","description":"Frontend TO-DO, используя React/Vue/Angular","date":"2024-11-30","status":"completed"},
+  {"id":"42277721-19b6-45c3-b47c-a2907152afab","title":"Сделать лр 4 по дисциплине \"Разработка Web-приложений\"","description":"Backend TO-DO","date":"2024-12-25","status":"not started"},
+  {"id":"b5be45b7-1a76-48a9-9763-b1424820a136","title":"Сделать лр по дисциплине \"Эргономика и дизайн интерфейсов информационных систем и web-приложений\"","description":"Определить целевую аудиторию, сделать композицию макета, сделать макет, определить что можно улучшить","date":"2024-12-20","status":"ongoing"}
+]

@@ -1,0 +1,42 @@
+.tile {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 14px;
+  color: white;
+}
+
+.tileTitle {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.tileDescription {
+  font-size: 14px;
+  color: #ccc;
+}
+
+.tileDate {
+  font-size: 12px;
+  color: #bbb;
+}
+
+.tileStatus {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  text-transform: capitalize;
+  color: #6c757d;
+
+  &_completed {
+    color: #28a745;
+  }
+
+  &_cancelled {
+    color: #ff4747;
+  }
+
+  &_ongoing {
+    color: #ffc107;
+  }
+}
